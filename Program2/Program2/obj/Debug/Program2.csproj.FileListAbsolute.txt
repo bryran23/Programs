@@ -1,0 +1,10 @@
+C:\Users\bryra\OneDrive\Documents\CIS 199\labs\Program2\Program2\bin\Debug\Program2.exe.config
+C:\Users\bryra\OneDrive\Documents\CIS 199\labs\Program2\Program2\bin\Debug\Program2.exe
+C:\Users\bryra\OneDrive\Documents\CIS 199\labs\Program2\Program2\bin\Debug\Program2.pdb
+C:\Users\bryra\OneDrive\Documents\CIS 199\labs\Program2\Program2\obj\Debug\Program2.csprojAssemblyReference.cache
+C:\Users\bryra\OneDrive\Documents\CIS 199\labs\Program2\Program2\obj\Debug\Program2.Form1.resources
+C:\Users\bryra\OneDrive\Documents\CIS 199\labs\Program2\Program2\obj\Debug\Program2.Properties.Resources.resources
+C:\Users\bryra\OneDrive\Documents\CIS 199\labs\Program2\Program2\obj\Debug\Program2.csproj.GenerateResource.cache
+C:\Users\bryra\OneDrive\Documents\CIS 199\labs\Program2\Program2\obj\Debug\Program2.csproj.CoreCompileInputs.cache
+C:\Users\bryra\OneDrive\Documents\CIS 199\labs\Program2\Program2\obj\Debug\Program2.exe
+C:\Users\bryra\OneDrive\Documents\CIS 199\labs\Program2\Program2\obj\Debug\Program2.pdb

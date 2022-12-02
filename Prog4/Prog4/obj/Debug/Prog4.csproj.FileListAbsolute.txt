@@ -1,0 +1,7 @@
+C:\Users\bryra\OneDrive\Documents\CIS 199\labs\Prog4\Prog4\bin\Debug\Prog4.exe.config
+C:\Users\bryra\OneDrive\Documents\CIS 199\labs\Prog4\Prog4\bin\Debug\Prog4.exe
+C:\Users\bryra\OneDrive\Documents\CIS 199\labs\Prog4\Prog4\bin\Debug\Prog4.pdb
+C:\Users\bryra\OneDrive\Documents\CIS 199\labs\Prog4\Prog4\obj\Debug\Prog4.csprojAssemblyReference.cache
+C:\Users\bryra\OneDrive\Documents\CIS 199\labs\Prog4\Prog4\obj\Debug\Prog4.csproj.CoreCompileInputs.cache
+C:\Users\bryra\OneDrive\Documents\CIS 199\labs\Prog4\Prog4\obj\Debug\Prog4.exe
+C:\Users\bryra\OneDrive\Documents\CIS 199\labs\Prog4\Prog4\obj\Debug\Prog4.pdb
